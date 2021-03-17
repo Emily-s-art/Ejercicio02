@@ -1,0 +1,19 @@
+div {
+	background-color: lightgrey;
+width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+color: white;
+font-family: "Arial";
+}
+
+h1 {
+font-size: 100px;
+text-align: left;
+
+}
+h1 {
+font-family: "Copperplate";
+
+}
